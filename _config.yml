@@ -1,0 +1,28 @@
+name: nickbenoit
+favicon: null
+layout_spectrum: 0.3025264535099268
+typography_spectrum: 0.9870266891084611
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8052459869068116
+  lightness: 0.36754963523708284
+  saturation: 0.25466507696546614
+  rhythmicContrast: 0.3937633780296892
+purpose: []
