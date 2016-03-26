@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nickbenoit]]></title>
         <description><![CDATA[nickbenoit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nickbenoit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 01:06:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 01:08:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nickbenoit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://vimeo.com/159224196</p>]]></description>
-            <link>undefined9ad71fc9-2020-4c79-9ce5-86b812f0e01d/index.html</link>
+            <link>https://thegrid.ai/nickbenoit/9ad71fc9-2020-4c79-9ce5-86b812f0e01d/index.html</link>
             <guid isPermaLink="false">9ad71fc9-2020-4c79-9ce5-86b812f0e01d</guid>
-            <pubDate>Sat, 26 Mar 2016 01:06:34 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 01:08:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
