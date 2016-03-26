@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nickbenoit]]></title>
+        <description><![CDATA[nickbenoit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 01:06:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/159224196</p>]]></description>
+            <link>undefined9ad71fc9-2020-4c79-9ce5-86b812f0e01d/index.html</link>
+            <guid isPermaLink="false">9ad71fc9-2020-4c79-9ce5-86b812f0e01d</guid>
+            <pubDate>Sat, 26 Mar 2016 01:06:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
